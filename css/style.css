@@ -1,0 +1,45 @@
+html {
+  background-color: #fefcea;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+/*.div {*/
+/*  transform: translate3d(650px, -88px, 0px);*/
+/*  display: flex;*/
+/*  align-items: center;*/
+/*  justify-content: center;*/
+/*  position: absolute;*/
+/*  left: 0;*/
+/*  top: 0;*/
+/*  width: 600px;*/
+/*  height: 600px;*/
+/*  z-index: 999;*/
+
+/*}*/
+
+/*.rNjvu {*/
+
+/*  width: 120px;*/
+/*  height: 120px;*/
+/*  background-image: url(//www.google.com/logos/fnbx/snake_arcade/keys.svg);*/
+/*  background-size: 100px auto;*/
+/*  background-repeat: no-repeat;*/
+/*  background-position: center;*/
+/*  background-color: #000;*/
+/*  background-color: rgba(0, 0, 0, .6);*/
+/*  border-radius: 16px;*/
+/*  position: relative;*/
+/*  top: 33%;*/
+/*  transform: translateY(-50%);*/
+/*  display: block;*/
+/*  margin: auto;*/
+/*  -webkit-user-select: none;*/
+/*  -moz-user-select: none;*/
+/*  -ms-user-select: none;*/
+/*  user-select: none;*/
+/*}*/
